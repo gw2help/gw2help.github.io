@@ -1,0 +1,66 @@
+{
+    "resets":{
+        "zone": "UTC+1",
+        "daily reset": "01:00",
+
+        "raids":{
+            "weekly":{
+                "name": "Weekly Raids",
+                "day":  "1",
+			    "hour": "08",
+                "mins": "30"
+            },
+            "call of the mists":{
+                "name": "Call of the Mists",
+			    "wiki": "https://wiki.guildwars2.com/wiki/Call_of_the_Mists_(raid_effect)",
+			    "icon": "https://wiki.guildwars2.com/images/1/1a/Call_of_the_Mists_portal_icon.png",
+			    "day":  "1",
+                "hour": "9",
+                "mins": "30",
+                "wing": "1"
+            }
+		},
+        "strikes":{
+            "daily":{
+                "ibs":{
+                    "name": "Daily IBS Strikes",
+                    "hours": "1",
+                    "mins": "00"
+                },
+                "eod":{
+                    "name": "Daily EOD Strikes",
+                    "hours": "1",
+                    "mins": "0"
+                }
+            },
+            "weekly":{
+                "ibs":{
+                    "name": "Weekly IBS Strikes",
+                    "day":  "2",
+                    "hours": "0",
+                    "mins": "30"
+                },
+                "eod":{
+                    "name": "Achiev: Weekly Cantha Strikes",
+                    "day":  "1",
+                    "hours": "8",
+                    "mins": "30"
+                }
+            }
+        },
+        "fractals":{
+            "daily":{
+                "name": "Achiev: Daily Fractals",
+                "day": "1",
+                "hours": "1",
+                "mins": "0"
+            },
+            "weekly":{
+                "name": "Achiev: Weekly Fractals",
+                "day": "1",
+                "hours": "8",
+                "mins": "30"
+            }
+        }
+    }
+}

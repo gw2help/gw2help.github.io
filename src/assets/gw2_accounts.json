@@ -1,0 +1,30 @@
+// ONLINE DATABASE 
+// https://console.firebase.google.com/project/gw2db-6cb51/database/gw2db-6cb51-default-rtdb/data
+{
+    "accounts": {
+        "liloola" : {
+            "name" : "liloo",
+            "kpme" : "4xqb7",
+            "apiKey" : "10A33C63-85D8-D743-ABCD-B0219626D384F1D1A5B1-BADF-484D-81D4-65FF16D6B218",
+            "favWp": "[&BCAJAAA=][&BLQJAAA=]"
+        },
+        "empy" : {
+            "name" : "empy",
+            "kpme" : "0w0",
+            "apiKey" : "88393C62-1357-F345-B581-C83C32A1267423AEEBCA-A378-4E3F-A966-5D4D9C273D60",
+            "favWp" : ""
+        },
+        "paloola" : {
+            "name" : "paloo",
+            "kpme" : "evemp",
+            "apiKey" : "91776414-F466-BF48-B3AF-3D09620D87B42FAE5CCF-0F7C-4CFB-998A-479F3FB3F093",
+            "favWp" : ""
+        },
+        "pinkman" : {
+            "name" : "pinkman",
+            "kpme" : "n9gez",
+            "apiKey" : "1F592E6D-2CC4-FB4B-A6F8-D39F719753FDAA304B7F-12C9-48E7-BF88-F01625D32370",
+            "favWp" : ""
+        }
+    }
+}

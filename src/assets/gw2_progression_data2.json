@@ -1,0 +1,317 @@
+{
+	"raids":{
+		"w1":{
+			"wing": "WING 1",
+			"class": "w1",
+			"fullGuide": "https://metabattle.com/wiki/Guide:Raid_Wing_1_-_Spirit_Vale",
+			"imgBg" : "../img/raid/w1.png",
+			"b1":{
+				"video": "https://www.youtube.com/watch?v=qtzMDCVHlLg",
+				"imgBoss": "../img/raid/vale_guardian.png",
+				"imgTank": "../img/raid/guide/vg_tank.png",
+				"imgToken": "https://wiki.guildwars2.com/images/f/f5/Vale_Guardian_Pieces.png",
+				"codeToken": "[&AgHRLwEA]",
+				"classToken": "kpw1b1",
+				"name": "VG"
+			},
+			"b2":{
+				"video": "https://www.youtube.com/watch?v=Ni_-HkRtmm4",
+				"imgBoss": "../img/raid/spirit_woods.png",
+				"imgTank": "",
+				"imgToken": "",
+				"codeToken": "",
+				"classToken": "kpw1b2",
+				"name": "Spirit"
+			},
+			"b3":{
+				"video": "https://www.youtube.com/watch?v=B9qbuP9kv4Q",
+				"imgBoss": "../img/raid/gorseval.png",
+				"imgTank": "../img/raid/guide/gorse_platform.png",
+				"imgToken": "https://wiki.guildwars2.com/images/e/ed/Gorseval_Tentacle.png",
+				"codeToken": "[&AgGhLwEA]",
+				"classToken": "kpw1b3",				
+				"name": "Gorse"
+			},
+			"b4":{
+				"video": "https://www.youtube.com/watch?v=4bqwSrZ2Sr4",
+				"imgBoss": "../img/raid/sabetha.png",
+				"imgTank": "../img/raid/guide/sab_cannons.png",
+				"imgToken": "https://wiki.guildwars2.com/images/c/c0/Sabetha_Flamethrower_Fragment.png",
+				"codeToken": "[&AgGbLwEA]",
+				"classToken": "kpw1b4",
+				"name": "Sab"
+			}	
+		},
+		"w2":{
+			"wing": "WING 2",
+			"class": "w2",
+			"fullGuide": "https://metabattle.com/wiki/Guide:Raid_Wing_2_-_Salvation_Pass",
+			"imgBg" : "../img/raid/w2.png",
+			"b1":{
+				"video": "https://www.youtube.com/watch?v=qtzMDCVHlLg",
+				"imgBoss": "../img/raid/sloth.png",
+				"imgTank": "../img/raid/guide/sloth_shroom.png",
+				"imgToken": "https://wiki.guildwars2.com/images/d/dd/Slothasor_Mushroom.png",
+				"codeToken": "[&AgGaLwEA]",
+				"classToken": "kpw2b1",
+				"name": "Sloth"
+			},
+			"b2":{
+				"video": "https://youtu.be/ncVYseut8ag",
+				"imgBoss": "../img/raid/trio.png",
+				"imgTank": [],
+				"imgToken": "",
+				"codeToken": "",
+				"classToken": "kpw2b2",
+				"name": "Trio"
+			},
+			"b3":{
+				"video": "https://youtu.be/q99ocDpSnAI",
+				"imgBoss": "../img/raid/matt2.png",
+				"imgToken": "https://wiki.guildwars2.com/images/4/40/White_Mantle_Abomination_Crystal_%28trophy%29.png",
+				"codeToken": "[&AgFvLwEA]",
+				"classToken": "kpw2b3",
+				"name": "Matt"
+			},
+			"b4":{
+				"video": "",
+				"imgBoss": "",
+				"imgTank": [],
+				"imgToken": "",
+				"codeToken": "",
+				"name": "0"
+			}
+		},
+		"w3":{
+			"wing": "WING 3",
+			"class": "w3",
+			"fullGuide": "https://metabattle.com/wiki/Guide:Raid_Wing_3_-_Stronghold_of_the_Faithful",
+			"imgBg" : "../img/raid/w3.png",
+			"b1":{
+				"video": "https://www.youtube.com/watch?v=WFwcnj74lwU",
+				"videoBW": "https://www.youtube.com/watch?v=6_3rNbxd9Ks",
+				"videoTower": "https://youtu.be/sqx8vuebQFM?t=11",
+                "imgBoss": "../img/raid/glenna.png",
+                "imgTank": "",
+				"imgToken": "https://wiki.guildwars2.com/images/c/c3/Turret_Fragment.png",
+                "codeToken": "[&AgEZNAEA]",				
+				"classToken": "kpw3b1",
+                "name": "Escort"
+			},
+			"b2":{
+				"video": "https://www.youtube.com/watch?v=QIdzfDtxaFQ",
+				"imgBoss": "../img/raid/kc.png",
+				"imgTank": "../img/raid/guide/temporary.png",
+				"imgToken": "https://wiki.guildwars2.com/images/c/cb/Keep_Construct_Rubble_%28trophy%29.png",
+                "codeToken": "[&AgE2NAEA]",				
+				"classToken": "kpw3b2",
+                "name": "KC"
+			},
+			"b3":{
+				"video": "https://www.youtube.com/watch?v=mRwLCQ7rUTw",
+                "imgBoss": "../img/raid/castle.png",
+				"classToken": "kpw3b3",
+                "name": "TC"
+			},
+			"b4":{
+				"video": "https://www.youtube.com/watch?v=Iggsq-f3yBw",
+				"videoTank": "https://www.youtube.com/watch?v=BlSr3cg6Y9M",
+				"imgBoss": "../img/raid/xera.png",
+				"imgTank": ["../img/raid/guide/xera_tank_01.png","../img/raid/xera_tank_02.png"],
+				"imgToken": "https://wiki.guildwars2.com/images/7/7a/Xera%27s_Ribbon_Scrap.png",
+                "codeToken": "[&AgF8NAEA]",				
+				"classToken": "kpw3b4",
+                "name": "Xera"
+			}	
+		},
+		"w4":{
+			"wing": "WING 4",
+			"class": "w4",
+			"fullGuide": "https://metabattle.com/wiki/Guide:Raid_Wing_4_-_Bastion_of_the_Penitent",
+			"imgBg" : "../img/raid/w4.png",
+			"b1":{
+				"video": "https://www.youtube.com/watch?v=zPfLE1wwWkw",
+				"imgBoss": "../img/raid/cairn.png",
+				"imgToken": "https://wiki.guildwars2.com/images/6/63/Cairn_the_Indomitable_Shard.png",
+				"codeToken": "[&AgEZOgEA]",				
+				"classToken": "kpw4b1"
+				
+			},
+			"b2":{
+				"video": "https://www.youtube.com/watch?v=iHMzAPWoLDU",
+				"imgBoss": "../img/raid/murs.png",
+				"imgToken": "https://wiki.guildwars2.com/images/f/f1/Rec_Room_Floor_Tile.png",
+				"codeToken": "[&AgGNOQEA]",				
+				"classToken": "kpw4b2"
+			},
+			"b3":{
+				"video": "https://www.youtube.com/watch?v=pLudL0RBgf0",
+				"imgBoss": "../img/raid/sama.png",
+				"imgToken": "https://wiki.guildwars2.com/images/a/aa/Impaled_Prisoner.png",
+				"codeToken": "[&AgHXOAEA]",				
+				"classToken": "kpw4b3"
+			},
+			"b4":{
+				"video": "https://www.youtube.com/watch?v=gW5HH36X3zU",
+				"imgBoss": "../img/raid/deimos.png",
+				"imgTank": "../img/raid/guide/deimos_tank.png",
+				"imgToken": "https://wiki.guildwars2.com/images/c/cf/Fragment_of_Saul%27s_Burden.png",
+				"codeToken": "[&AgGeOgEA]",				
+				"classToken": "kpw4b4"
+			}	
+		},
+		"w5":{
+			"wing": "WING 5",
+			"class": "w5",
+			"fullGuide": "https://metabattle.com/wiki/Guide:Raid_Wing_5_-_Hall_of_Chains",
+			"imgBg" : "../img/raid/w5.png",
+			"b1":{
+				"video": "https://www.youtube.com/watch?v=Nw6D9_RcJhs",
+				"imgBoss": "../img/raid/horror.png",
+				"imgToken": "https://wiki.guildwars2.com/images/1/11/Desmina%27s_Token.png",
+				"codeToken": "[&AgHpTwEA]",				
+				"classToken": "kpw5b1"
+			},
+			"b2":{
+				"video": "https://www.youtube.com/watch?v=-84PZQGCmyI",
+				"imgBoss": "../img/raid/river.png",
+				"imgToken": "https://wiki.guildwars2.com/images/2/27/River_of_Souls_Token.png",
+				"codeToken": "none",				
+				"classToken": "kpw5b2"
+			},
+			"b3":{
+				"video": "https://www.youtube.com/watch?v=cKUcf_ez9Ec",
+				"imgBoss": "../img/raid/grenth.png",
+				"imgToken": "https://wiki.guildwars2.com/images/7/7d/Statue_of_Grenth_Token.png",
+				"codeToken": "none",				
+				"classToken": "kpw5b3"
+			},
+			"b4":{
+				"video": "https://www.youtube.com/watch?v=5gFxLKJI9ds",
+				"imgBoss": "../img/raid/dhuum.png",
+				"imgTank": "../img/raid/guide/dhuum_tank2.png",
+				"imgToken": "https://wiki.guildwars2.com/images/thumb/2/24/Dhuum%27s_Token.png/40px-Dhuum%27s_Token.png",
+				"codeToken": "[&AgGBTgEA]",				
+				"classToken": "kpw5b4"
+			}	
+		},
+		"w6":{
+			"wing": "WING 6",
+			"class": "w6",
+			"fullGuide": "https://metabattle.com/wiki/Guide:Raid_Wing_6_-_Mythwright_Gambit",
+			"imgBg" : "../img/raid/w6.png",
+			"b1":{
+				"video": "https://www.youtube.com/watch?v=B7VQAZuV-6o",
+				"imgBoss": "../img/raid/amal.png",
+				"imgToken": "https://wiki.guildwars2.com/images/c/c4/Conjured_Amalgamate_Token.png",
+				"codeToken": "none",				
+				"classToken": "kpw6b1"
+			},
+			"b2":{
+				"video": "https://www.youtube.com/watch?v=RUQQhyE_YiA",
+				"imgBoss": "../img/raid/largos.png",
+				"imgToken": "https://wiki.guildwars2.com/images/0/0a/Twin_Largos_Token.png",
+				"codeToken": "none",				
+				"classToken": "kpw6b2"
+			},
+			"b3":{
+				"video": "https://www.youtube.com/watch?v=nU_yQtk_8oo",
+				"imgBoss": "../img/raid/qadim.png",
+				"imgTank": "../img/raid/guide/temporary.png",
+				"imgToken": "https://wiki.guildwars2.com/images/b/ba/Qadim%27s_Token.png",
+				"codeToken": "[&AgFFWgEA]",				
+				"classToken": "kpw6b3"
+			}
+		},
+		"w7":{
+			"wing": "WING 7",
+			"class": "w7",
+			"fullGuide": "https://metabattle.com/wiki/Guide:Raid_Wing_7_-_The_Key_of_Ahdashim",
+			"imgBg" : "../img/raid/w7.png",
+			"b1":{
+				"video": "https://www.youtube.com/watch?v=aorw1Bnt_u0",
+				"imgBoss": "../img/raid/gate.png",
+				"imgTank": "../img/raid/guide/xx.png",				
+				"classToken": "kpw7b1"
+			},
+			"b2":{
+				"video": "https://www.youtube.com/watch?v=jwjqrsBQhEo",
+				"imgBoss": "../img/raid/sabir.png",
+				"imgTank": "../img/raid/guide/temporary.png",
+				"imgToken": "https://wiki.guildwars2.com/images/1/12/Cardinal_Sabir%27s_Token.png",
+				"codeToken": "[&AgGGZAEA]",				
+				"classToken": "kpw7b2"
+			},
+			"b3":{
+				"video": "https://www.youtube.com/watch?v=T_RwWm0Jj4k",
+				"imgBoss": "../img/raid/adina.png",
+				"imgTank": "../img/raid/guide/temporary.png",
+				"imgToken": "https://wiki.guildwars2.com/images/2/28/Cardinal_Adina%27s_Token.png",
+				"codeToken": "[&AgFuZAEA]",				
+				"classToken": "kpw7b3"
+			},
+			"b4":{
+				"video": "https://www.youtube.com/watch?v=v1ZFeRot8zg",
+				"imgBoss": "../img/raid/peer.png",
+				"imgTank": "../img/raid/guide/temporary.png",
+				"imgToken": "https://wiki.guildwars2.com/images/0/0e/Ether_Djinn%27s_Token.png",
+				"codeToken": "[&AgEnZAEA]",				
+				"classToken": "kpw7b4"
+			}	
+		}
+	},
+	"dungeons":{
+		"d1":{
+			"video" : "https://www.youtube.com/watch?v=YvHN9KB0wbU",
+			"imgBg" : "/img/dung/ac.png",
+			"wiki" : "https://wiki.guildwars2.com/wiki/Ascalonian_Catacombs_(explorable)"
+		},
+		"d2":{
+			"video" : "",
+			"imgBg" : "/img/dung/cm.png",
+			"wiki" : "https://wiki.guildwars2.com/wiki/Caudecus%27s_Manor_(explorable)"
+		},
+		"d3":{
+			"video" : ["",""],
+			"imgBg" : "/img/dung/ta.png",
+			"wiki" : "https://wiki.guildwars2.com/wiki/Twilight_Arbor_(explorable)"
+		},
+		"d4":{
+			"video" : "",
+			"imgBg" : "/img/dung/se.png",
+			"wiki" : "https://wiki.guildwars2.com/wiki/Sorrow%27s_Embrace_(explorable)"
+		},
+		"d5":{
+			"video" : [
+				{"name": "p1+3" , "link" : "https://www.youtube.com/watch?v=mzBewuiRZYc"},
+				{"name": "p3 portal", "link" : "https://www.youtube.com/watch?v=SV2-RnjM3j0"}
+			],
+			"imgBg" : "/img/dung/cof.png",
+			"wiki" : "https://wiki.guildwars2.com/wiki/Citadel_of_Flame_(explorable)"
+		},
+		"d6":{
+			"video" : "",
+			"imgBg" : "/img/dung/hotw.png",
+			"wiki" : "https://wiki.guildwars2.com/wiki/Honor_of_the_Waves_(explorable)"
+		},
+		"d7":{
+			"video" : "",
+			"imgBg" : "/img/dung/coe.png",
+			"wiki" : "https://wiki.guildwars2.com/wiki/Crucible_of_Eternity_(explorable)"
+		},
+		"d8":{
+			"video" : "https://www.youtube.com/watch?v=7RJRb7wQD90",
+			"imgBg" : "/img/dung/arah.png",
+			"wiki" : "https://wiki.guildwars2.com/wiki/The_Ruined_City_of_Arah_(explorable)"
+		}
+	},
+	"fractals":{
+		"dailies": "xx",
+		"recs": "xx",
+		"img": "xx"
+	},
+	"mechs":{
+		"fixation": "../img/raid/guide/fixation.png",
+		"poison": "../img/raid/guide/volatile_poison.png"
+	}
+}

@@ -1,0 +1,213 @@
+{ "array":[{
+    "guardian": [{
+        "dh": {
+            "name" : "dh",
+            "link" : "https://metabattle.com/wiki/Build:Dragonhunter_-_Power_DPS",
+            "chatCode" : "[&DQEqOhA+GzkmDwAAihIAAEgBAAD+AAAAtRIAAAAAAAAAAAAAAAAAAAAAAAA=]",
+            "type": "power",
+            "support": "",
+            "profession": "dragonhunter"  
+        },
+        "cfb": {
+            "name" : "cfb",
+            "link" : "https://metabattle.com/wiki/Build:Firebrand_-_Condi_DPS",
+            "chatCode" : "[&DQEuHxAaPj1LF0sXFRcVF0wBTAExATEBNwE3AQAAAAAAAAAAAAAAAAAAAAA=]",
+            "type": "condi",
+            "support": "",
+            "profession": "firebrand"
+        },
+        "qfb": {
+            "name" : "qfb",
+            "link" : "https://metabattle.com/wiki/Build:Firebrand_-_Quickness_Support_Condi_DPS",
+            "chatCode" : "[&DQEQGi4XPjZLF0sXehZ6FhUXTAFMATEBiRKJEgAAAAAAAAAAAAAAAAAAAAA=]",
+            "type": "condi",
+            "support": "quick",
+            "profession": "firebrand"
+        }, 
+        "hfb": {
+            "name" : "hfb",
+            "link" : "https://metabattle.com/wiki/Build:Firebrand_-_Support_Healer",
+            "chatCode" : "[&DQExJS4qPjZLF0sXehZ6FkkBNgFLAf4AiRKJEgAAAAAAAAAAAAAAAAAAAAA=]",
+            "type": "heal",
+            "support": "quick",
+            "profession": "firebrand"
+        },
+        "cele": {
+            "name" : "cele",
+            "link" : "http://gw2skills.net/editor/?PWwAc+tlRweYSYmYRL9+sB-zRRYVR39GGaIoOLicLgOSAA-e",
+            "chatCode" : "[&DQEQGjEvPjZLFwAAehYAAFMXAAAAAAAAGBYAAAAAAAAAAAAAAAAAAAAAAAA=]",
+            "type": "condi",
+            "support": "quick",
+            "profession": "firebrand"
+        }
+    }],
+    "revenant": [{
+        "palac": {
+            "name" : "palac",
+            "link" : "https://metabattle.com/wiki/Build:Renegade_-_Boon_Support_Power_DPS",
+            "chatCode" : "[&DQkPJgMmPz3cEdwRKxIGEgYSKxLUEdQRyhHKEQUCAgQGEisS1BErEgYS1BE=]",
+            "type": "power",
+            "support": "alac",
+            "profession": "renegade"
+        },
+        "calac": {
+            "name" : "calac",
+            "link" : "https://metabattle.com/wiki/Build:Renegade_-_Boon_Support_Condi_DPS",
+            "chatCode" : "[&DQkOHQMmPzrcEQAAKxIAAAYSAADUEQAAyhEAAAUEAAArEgYS1BEGEisS1BE=]",
+            "type": "condi",
+            "support": "alac",
+            "profession": "renegade"
+        },
+        "halac": {
+            "name" : "halac",
+            "link" : "https://metabattle.com/wiki/Build:Renegade_-_Boon_Support_Healer",
+            "chatCode" : "[&DQkMFQMmPz/cEdwRKxIrEgYSBhLUEdQRyhHKEQUGBAArEgYS1BEAAAAAAAA=]",
+            "type": "heal",
+            "support": "alac",
+            "profession": "renegade"
+        },
+        "celetank": {
+            "name" : "celetank",
+            "link": "xx",
+            "chatCode": "[&DQkOHQMmPzrcEQAAKxIAAAYSAADUEQAAyhEAAAUEAAArEgYS1BEGEisS1BE=]",
+            "type": "condi",
+            "support": "alac",
+            "profession": "renegade"
+        },
+        "cdps": {
+            "name" : "cdps",
+            "link": "https://metabattle.com/wiki/Build:Renegade_-_Condi_DPS",
+            "chatCode": "[&DQkOHQMmPzrcEQAAKxIAAAYSAADUEQAAyhEAAAUEAAArEgYS1BEGEisS1BE=]",
+            "type": "condi",
+            "support": "",
+            "profession": "renegade"
+        },
+        "afk herald": {
+            "name" : "afk herald",
+            "link" : "xx",
+            "chatCode" : "[&DQkOKgk7NBXcEdwR1BErEisSBhIGEtQRyhHKEQEDAQTUESsSBhIrEgYS1BE=]",
+            "type": "power",
+            "support": "",
+            "profession": "herald"
+        },
+        "pdps herald": {
+            "name" : "pdps herald",
+            "link": "https://metabattle.com/wiki/Build:Herald_-_Power_Quickness_Herald",
+            "chatCode": "[&DQkDNg8qNCXcEQAABhIAACsSAADUEQAAyhEAAAECAADUESsSBhIAAAAAAAA=]",
+            "type": "power",
+            "support": "quick",
+            "profession": "herald"
+        },
+        "pylon": {
+            "name" : "pylon",
+            "link" : "http://gw2skills.net/editor/?PmgAUJO6SqPXA-zRRYmRBPcEBnScKgKlA5KEyZEIsB-e",
+            "chatCode" : "[&DQkOHQMqPy7cEQAAKxIAAAYSAADUEQAAyhEAAAQFAAArEgYS1BEAAAAAAAA=]",
+            "type": "condi",
+            "support": "alac",
+            "profession": "renegade"
+        },
+        "alactank deimos": {
+            "name" : "tank deimos",
+            "link" : "http://gw2skills.net/editor/?PmwAwyZ+AA-zRpYghDbMIB0oDRomQgwBFUG8SgpXBqNL7eGB-e",
+            "chatCode" : "[&DQkMLw83Pz/cEdwRKxIrEgYSBhLUEdQRyhHKEQUCBAAGEisS1BEAAAAAAAA=]",
+            "type": "power",
+            "support": "alac",
+            "profession": "renegade"
+        }
+    }],
+    "ranger": [{
+        "pslb": {
+            "name" : "pslb",
+            "link" : "https://metabattle.com/wiki/Build:Soulbeast_-_Condi_DPS",
+            "chatCode" : "[&DQQeHSE3Ny55AAAAvwAAAOkWAAC6AAAALhYAAAMlAAAAAAAAAAAAAAAAAAA=]",
+            "type": "power",
+            "support": "",
+            "profession": "soulbeast"
+        },
+        "cslb": {
+            "name" : "cslb",
+            "link" : "https://metabattle.com/wiki/Build:Soulbeast_-_Condi_DPS",
+            "chatCode" : "[&DQQeHSE3Ny55AAAAvwAAAOkWAAC6AAAALhYAAAMlAAAAAAAAAAAAAAAAAAA=]",
+            "type": "condi",
+            "support": "",
+            "profession": "soulbeast"
+        },
+        "burst cslb":{
+            "name" : "burst cslb",
+            "link" : "https://metabattle.com/wiki/Build:Soulbeast_-_Hybrid_DPS",
+            "chatCode" : "[&DQQePSA/Ny55AHkApQGlAekW6Ra/AL8ALhYuFjQlFQAAAAAAAAAAAAAAAAA=]",
+            "type": "condi",
+            "support": "",
+            "profession": "soulbeast"
+        } ,
+        "hk slb": {
+            "name" : "hk slb",
+            "link": "https://metabattle.com/wiki/Build:Soulbeast_-_Hand_Kiter",
+            "chatCode" : "[&DQQhLhkmNxp5AAAANBYAAMIAAACrAQAAlwEAAAAAAAAAAAAAAAAAAAAAAAA=]",
+            "type": "heal",
+            "support": "",
+            "profession": "soulbeast"
+        }       
+    }],
+    "engineer": [{
+        "ham": {
+            "name" : "ham",
+            "link" : "https://metabattle.com/wiki/Build:Mechanist_-_Support_Healer",
+            "chatCode" : "[&DQMvNR0XRiqEAIQAIgGjAJUBlQELGwsbmAGJAQAAAAAAAAAAAAAAAAAAAAA=]",
+            "type": "heal",
+            "support": "alac",
+            "profession": "mechanist"
+        }
+    }],
+    "mesmer": [{    
+        "miralac": {
+            "name" : "miralac",
+            "link" : "https://metabattle.com/wiki/Build:Mirage_-_Alacrity_Support_Condi_DPS",
+            "chatCode" : "[&DQcBJS0dOxnuFSMP4BV/AYEBgQGDAYMBRhe8AQAAAAAAAAAAAAAAAAAAAAA=]",
+            "type": "condi",
+            "support": "alac",
+            "profession": "mirage"
+        }
+    }],
+    "thief": [{
+        "xx": {
+            "name" : "xx",
+            "link" : "xx",
+            "chatCode" : "xx",
+            "type": "xx",
+            "support": "xx",
+            "profession": "xx"
+        }
+    }],
+    "necromancer": [{
+        "afk" : {
+            "name" : "afk reaper",
+            "link" : "xx",
+            "chatCode" : "[&DQgCFRMfIiqbAJsA5ADkAHYAdgBwAXABlQCVAAAAAAAAAAAAAAAAAAAAAAA=]",
+            "type": "power",
+            "support": "",
+            "profession": "reaper"
+        }
+    }],
+    "warrior": [{
+        "xx": {
+            "name" : "xx",
+            "link" : "xx",
+            "chatCode" : "xx",
+            "type": "xx",
+            "support": "xx",
+            "profession": "xx"
+        }
+    }],
+    "elementalist": [{
+        "xx": {
+            "name" : "xx",
+            "link" : "xx",
+            "chatCode" : "xx",
+            "type": "xx",
+            "support": "xx",
+            "profession": "xx"
+        }
+    }]            
+}]
+}
